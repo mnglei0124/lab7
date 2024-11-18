@@ -36,6 +36,27 @@ export function TravelSection() {
                   </div>
                 </div>
                 <!-- More story items... -->
+                 <!-- Story Item 2 -->
+                  <div class="story-item d-flex mb-3" aria-labelledby="story-2-heading">
+                    <img src="https://placehold.co/120x120/333/fff?text=Australia" 
+                         class="rounded me-3" 
+                         alt="Australia">
+                    <div>
+                      <span class="text-uppercase small">TRAVEL</span>
+                      <h5 class="mb-0" id="story-2-heading">What it's like to hike Australia's Great Ocean Walk</h5>
+                    </div>
+                  </div>
+
+                  <!-- Story Item 3 -->
+                  <div class="story-item d-flex mb-3" aria-labelledby="story-3-heading">
+                    <img src="https://placehold.co/120x120/333/fff?text=Pet+Travel" 
+                         class="rounded me-3" 
+                         alt="Pet Travel">
+                    <div>
+                      <span class="text-uppercase small">TRAVEL</span>
+                      <h5 class="mb-0" id="story-3-heading">Traveling with your pet for the holidays? Here are some helpful tips.</h5>
+                    </div>
+                  </div>
                 <a href="#" class="text-white text-decoration-none small text-uppercase" aria-label="See more travel stories">See More</a>
               </div>
               <!-- Bottom Cards -->
