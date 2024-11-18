@@ -254,7 +254,7 @@
     <div class="container-fluid px-md-5" role="region" aria-labelledby="nat-geo-tv-heading">
       <h2 id="nat-geo-tv-heading" class="visually-hidden">Discover More on Disney+</h2>
       <div class="d-flex justify-content-between align-items-center mb-4">
-        <h2 class="h3 mb-0">DISCOVER MORE ON DISNEY+</h2>
+        <h2 class="h3 mb-0">DISCOVER MORE ON DISNEY+ - National Geographic Clone</h2>
         <a href="https://www.disneyplus.com" class="text-white text-decoration-none" aria-label="See shows on Disney+">SEE SHOWS</a>
       </div>
       <div class="shows-wrapper position-relative" role="group" aria-label="TV Shows">
