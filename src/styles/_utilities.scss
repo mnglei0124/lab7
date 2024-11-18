@@ -1,0 +1,32 @@
+// NatGeo specific utility classes
+.text-natgeo {
+  color: #ffcc00 !important;
+}
+
+.bg-natgeo {
+  background-color: #ffcc00 !important;
+}
+
+.font-natgeo {
+  font-family: "GeographWeb", Arial, sans-serif;
+}
+
+// Card hover effects
+.card-hover {
+  transition: transform 0.3s ease;
+  &:hover {
+    transform: translateY(-5px);
+  }
+}
+
+// Image zoom effect
+.img-zoom-container {
+  overflow: hidden;
+
+  img {
+    transition: transform 0.3s ease;
+    &:hover {
+      transform: scale(1.05);
+    }
+  }
+}
