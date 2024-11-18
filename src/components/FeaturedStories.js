@@ -4,7 +4,7 @@ export function FeaturedStories() {
 
   section.innerHTML = `
     <div class="container">
-      <h2 class="section-title mb-4">Latest Stories</h2>
+      <h2 class="section-title mb-4">Latest National Geographic Stories</h2>
       <div class="row g-4">
         <div class="col-md-8">
           <div class="featured-main position-relative">

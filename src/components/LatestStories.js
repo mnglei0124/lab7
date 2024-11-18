@@ -4,19 +4,19 @@ export function LatestStories() {
 
   section.innerHTML = `
     <div class="container-fluid px-4">
-      <h1 class="display-2 text-center mb-4">Latest Stories</h1>
+      <h2 class="display-2 text-center mb-4">Latest Nature and Wildlife Stories</h2>
       <p class="text-center mb-5">
         <a href="https://mnglei0124.github.io/lab7/subscribe" class="text-warning text-decoration-none" target="_blank">Subscribe</a>
-        for full access to read stories from National Geographic.
+        for full access to read stories from National Geographic about nature and wildlife.
       </p>
       
       <div class="row">
         <div class="col-12 col-lg-3">
-          <h2 class="h3 text-warning border-warning border-bottom pb-3 mb-4">TODAY'S PICKS</h2>
+          <h3 class="h3 text-warning border-warning border-bottom pb-3 mb-4">Today's Picks of Nature and Wildlife</h3>
           <div class="picks-list">
             ${generatePicksList()}
           </div>
-          <a href="https://mnglei0124.github.io/lab7/latest-stories" class="btn btn-link text-white text-decoration-none p-0 mt-4">SEE MORE</a>
+          <a href="https://mnglei0124.github.io/lab7/latest-stories" class="btn btn-link text-white text-decoration-none p-0 mt-4">See More Wildlife Stories</a>
         </div>
         
         <div class="col-12 col-lg-9">

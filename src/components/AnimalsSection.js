@@ -4,7 +4,7 @@ export function AnimalsSection() {
 
   section.innerHTML = `
     <div class="container-fluid px-md-5" style="max-width: 1400px;">
-      <h2 class="h2 text-center mb-4">ANIMALS</h2>
+      <h2 class="h2 text-center mb-4">Explore Animals in Nature and Wildlife</h2>
       <div class="row g-4 justify-content-center">
         <!-- Main Feature -->
         <div class="col-12 col-md-6">
@@ -15,7 +15,7 @@ export function AnimalsSection() {
             <div class="article-content p-3">
               <span class="category">WILDLIFE WATCH</span>
               <h3 class="h4 my-2"><a href="https://mnglei0124.github.io/lab7/animal-article" class="text-white">Why this owl is raising a duckling as its own</a></h3>
-              <button class="btn btn-read">READ</button>
+              <button class="btn btn-read">READ Wildlife Stories</button>
             </div>
           </div>
         </div>
