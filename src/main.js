@@ -15,7 +15,7 @@ titleSection.className = "bg-black text-white text-center py-5";
 titleSection.innerHTML = `
   <h1 class="display-2 mb-3">LATEST STORIES</h1>
   <p>
-    <a href="#" class="text-warning text-decoration-none">Subscribe</a>
+    <a href="https://mnglei0124.github.io/lab7/subscribe" class="text-warning text-decoration-none">Subscribe</a>
     for full access to read stories from National Geographic.
   </p>
 `;

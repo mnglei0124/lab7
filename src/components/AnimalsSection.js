@@ -14,7 +14,7 @@ export function AnimalsSection() {
                  alt="Featured animal">
             <div class="article-content p-3">
               <span class="category">WILDLIFE WATCH</span>
-              <h3 class="h4 my-2">Why this owl is raising a duckling as its own</h3>
+              <h3 class="h4 my-2"><a href="https://mnglei0124.github.io/lab7/animal-article" class="text-white">Why this owl is raising a duckling as its own</a></h3>
               <button class="btn btn-read">READ</button>
             </div>
           </div>
@@ -29,10 +29,10 @@ export function AnimalsSection() {
                 <img src="https://placehold.co/160x160/333/fff?text=Wildlife" 
                      class="me-3 rounded" 
                      alt="Wildlife"
-                     style="width: 160px; height: 160px; object-fit: cover;">
+                     style="width: 160px; height: 160px;">
                 <div>
                   <span class="category small">WILDLIFE</span>
-                  <h4 class="h6 mb-0 mt-1">These birds form lifelong bonds—here's why</h4>
+                  <h4 class="h6 mb-0 mt-1"><a href="https://mnglei0124.github.io/lab7/wildlife-article" class="text-white">These birds form lifelong bonds—here's why</a></h4>
                 </div>
               </div>
             </div>
@@ -43,10 +43,10 @@ export function AnimalsSection() {
                 <img src="https://placehold.co/160x160/333/fff?text=Endangered" 
                      class="me-3 rounded" 
                      alt="Endangered Species"
-                     style="width: 160px; height: 160px; object-fit: cover;">
+                     style="width: 160px; height: 160px;">
                 <div>
                   <span class="category small">ENDANGERED SPECIES</span>
-                  <h4 class="h6 mb-0 mt-1">How scientists are saving rare fish in the Colorado River</h4>
+                  <h4 class="h6 mb-0 mt-1"><a href="https://mnglei0124.github.io/lab7/endangered-article" class="text-white">How scientists are saving rare fish in the Colorado River</a></h4>
                 </div>
               </div>
             </div>
