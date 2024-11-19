@@ -4,6 +4,12 @@ User-agent: *
 Disallow: /private/          # Disallow crawling of the private directory
 Disallow: /tmp/              # Disallow crawling of the temporary directory
 Disallow: /admin/            # Disallow crawling of the admin area
+Disallow: /login/            # Disallow crawling of the login page
+Disallow: /signup/           # Disallow crawling of the signup page
+Disallow: /user/             # Disallow crawling of user-specific pages
+Disallow: /api/              # Disallow crawling of API endpoints
+Disallow: /search/           # Disallow crawling of search results
+Disallow: /checkout/         # Disallow crawling of the checkout page
 
 # Allow all other content
 Allow: /
